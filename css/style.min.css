@@ -1,0 +1,1047 @@
+@media (max-width: 600px)  { 
+    .header-right, .header-center, .obr_sv, .lten,.br1, .br2{
+           display: none;
+    }
+    .br3{
+        display: block;
+    }
+       .glav > div{
+          width: 230px;
+       
+       
+    }
+    .picture{
+        max-width: 153px;
+        width: 100%;
+        height: 162px;
+           margin-top: 65px;
+           margin-left: 57px;
+       }
+    .picture img{
+        max-width: 153px;
+        width: 100%;
+        height: 153px;
+    }
+    .red_button{
+        width: 197px;
+    height: 38px;
+    right: 50px
+    }
+    .black_button{
+        width: 148px;
+        height: 36px;
+    }
+    .pbutton{
+        font-size: 14px;
+line-height: 20px;
+left: 30px;
+    }
+    .red, .grey{
+        font-size: 14px;
+line-height: 140%;
+top: -4px;
+position: relative;
+}
+.red{
+    margin-left: 25px;
+}
+.grey{
+    margin-left: 8px;
+}
+    
+
+    .black_button img{
+        width: 28px;
+    height: 25.2px;
+    top: -15px;
+    left: 35px;
+    }
+
+    
+     
+       #header{
+           height: 45px;
+       }
+   
+       .two{
+           margin-top: 45px;
+       }
+   
+       .header-left{
+           width: 35px;
+           height: 35px;
+           margin-left: 20px;
+           margin-right: 0pxs;
+       }
+       .header-left img{
+           width: 35px;
+           height: 35px;
+       }
+   
+       .burger{
+           display: block;
+       }
+       .main-content, .one, header, .glav, .two, #review, .footer, .fon2, .popup{
+           max-width: 480px;
+           min-width: 360px;
+           width: 100%;
+       }
+       .glav{
+           width: 100%;
+           padding-left: 20px;
+           padding-right: 20px;
+           height: 363px;
+           background: url(../img/fon480.png);
+       }
+       .glav h1{
+           
+           margin-top: 42px;
+           font-family: Noto Serif JP;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 28px;
+   line-height: 130%;;
+   margin-right: 57px;
+   max-width: 400px;
+       }
+       .glav .text{
+           width: 230px;
+           margin-top: 25px;
+           font-family:'Raleway', sans-serif;;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 140%;
+       }
+       .button{
+           width: 195px;
+           height: 44px;
+           margin-top: 13px;
+       }
+       .button button{
+           width: 155px;
+           height: 40px;
+           font-family: Noto Serif JP;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 23px;
+   padding-bottom: 5px;
+       }
+       .arrows{
+           width: 72px;
+           margin-left: 204px;
+           margin-top: 145px;
+       }
+       #about{
+           margin-left: 0px;
+           display: block;
+       }
+       .choice{
+           margin-top: 50px;
+           margin-left: 59px;
+       }
+       .choice ul li{
+           margin-left: 27px;
+           font-size: 16px;
+       }
+       .h2{
+           font-size: 20px;
+           margin-bottom: 20px;
+       }
+       .line1{
+           display: none;
+       }
+       .cookie_alert{
+           display: none;
+       }
+       .plaha{
+           width: 160px;
+           height: 262px;
+           padding: 6px;
+           margin-left: 10px;
+       }
+       .plaha img{
+           width: 148px;
+           height: 159px;
+       }
+       .rf{
+           margin-top: 40px;
+       }
+   
+   .rf,.dost, .age, .proizv, .price, .spec{
+       display: block;
+       width: 210px;
+       text-align: center;
+   }
+   .dost, .price, .spec{
+       float: right;
+       position: relative;
+       top: -180px;
+       margin-left: 20px;
+       text-align: center;
+   }
+   
+   .dost .p_about{
+       width: 210px;
+   }
+   .proizv .img_about{
+       margin-top: 37px;
+   }
+   .age .img_about{
+       margin-top: 20px;
+       
+   }
+   .price{
+       top: -137px;
+   }
+   .spec{
+       top: -151px;
+   }
+   .rf .img_about{
+       width: 40px;
+       height: 50px;
+   
+   }
+   
+   .img_about{
+       width: 40px;
+       height: 40px;
+       margin-right: 0px;
+   }
+   
+   .h1_about{
+       font-size: 13px;
+   line-height: 140%;
+   }
+   
+   
+   .fon2{
+    margin-top: 70px;
+    height: 210px;
+    background: url(../img/fon48.png);
+   }
+   .fon2 h4{
+       width: 284px;
+       font-size: 22px;
+   line-height: 140%;
+   margin-top: 20px;
+   margin-left: 20px;
+   }
+   .fon2 ol{
+       margin-top: 15px;
+   }
+   
+   .fon2 ol li{
+       font-size: 16px;
+       line-height: 
+       22,4px;
+   margin-left: 37px;
+   }
+   #review h2{
+       font-size: 20px;
+   line-height: 140%;
+   margin-left: 85px;
+   width: 310px;
+   text-align: center;
+   margin-bottom: 10px;
+   margin-top: 50px;
+   }
+   .h2_br{
+       display: none;
+       }
+   .otz1 p{
+       font-family: Raleway;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 140%;
+   padding: 0 30px;
+   margin-left: 0px;
+   }
+   .otz1 p br{
+       display: none;
+   }
+   .otz1{
+       width: 423px;
+       height: 169px;
+       margin-left: 0px;
+       background: url(../img/otz1x480.png);
+       padding-top: 23px;
+       position: relative;
+       top: 20px;
+       margin-left: 20px;
+   }
+   .kto{
+       margin-left: 20px;
+       top: -120px;
+    left: 20px;
+   }
+   .kto .pkto{
+       font-size: 14px;
+   line-height: 140%;
+   position: relative;
+   top: 90px;
+   }
+   .kto .pkto br{
+       display: none;
+   }
+   .pkto1{
+       font-size: 14px;
+   line-height: 140%;
+   position: relative;
+   top: 75px;
+   
+   }
+   
+   .otz2{
+       width: 390px;
+       height: 208px;
+       margin-left: 0px;
+       background: url(../img/otz2x480.png);
+       padding-top: 23px;
+       position: relative;
+    top: -30px;
+   }
+   
+   .otz2 p{
+       font-size: 16px;
+   line-height: 140%;
+   }
+   .otz2 p br{
+       display: none;
+   }
+   .otz2 p .br3{
+       display: block;
+   }
+   .p_about{
+       text-align: left;
+       margin-top: 10px;
+       font-size: 12px;
+   line-height: 140%;
+   }
+   .about_div{
+       display: block;
+       margin-left: 20px;
+   }
+   .otz2 .kto{
+       top: -100px;
+   } 
+   .otz3{
+       float: none;
+       background: url(../img/otz3x480.png);
+       width: 431px;
+       height: 206px;
+       padding-top: 23px;
+   }
+   .otz3 p{
+       font-size: 16px;
+   line-height: 140%;
+   padding-top: 0px;
+   }
+   .right .left{
+       font-size: 14px;
+   line-height: 140%;
+   position: relative;
+   bottom: 25px;
+   margin-bottom: 0;
+   }
+   .right .left br{
+  display: none;
+}
+   .right .down{
+       font-size: 14px;
+   line-height: 140%;
+   position: relative;
+   bottom: 20px;
+   }
+   .otz2 .pkto{
+       position: relative;
+       bottom: 40px;
+   }
+   #p320{
+       position: relative;
+       top: 25px;
+       right: 15px;
+   }
+   #p3201{
+       position: relative;
+       top: 10px;
+       right: 15px;
+   }
+   #prefooter{
+       min-width: 480px;
+       display: block;
+   }
+   .foot_right{
+       padding: 30px 75px 30px 75px;
+       margin: 0px;
+   }
+   .quest, .answer{
+       font-size: 16px;
+   line-height: 140%;
+   }
+   .quest, .answer br{
+       display: none;
+   }
+   .quest, .answer .br3{
+       display: block;
+   }
+   .dan{
+       width: 280px;
+       height: 455px;
+       margin: 0 auto;
+   }
+   .pform{
+       font-size: 16px;
+   }
+   .input{
+       width: 240px;
+       height: 25px;
+       font-size: 14px;
+   }
+   .radio{
+       font-size: 14px;
+   }
+   .pb3{
+       width: 234px;
+       height: 43px;
+       margin-left: 23px;
+   }
+   .pbutton3{
+       width: 194px;
+       height: 39px;
+       font-size: 16px;
+   }
+   .polit{
+       font-size: 12px;
+       margin-left: 15px;
+   }
+   .obr_sv1{
+       width: 96px;
+       font-size: 18px;
+   line-height: 140%;
+   margin: 0 auto;
+   margin-top: 30px;
+  
+   }
+   .wait{
+       font-size: 16px;
+   line-height: 140%;
+   margin-left: 20px;
+   margin-bottom: 15px;
+   margin-top: 15px;
+   }
+   .wait br{
+       display: none;
+   }
+   .tel2{
+       font-size: 16px;
+   line-height: 140%;
+   margin-left: 20px;
+   margin-top: 10px;
+   }
+   .wa,.tg{
+       float: right;
+       position: relative;
+      bottom: 50px;
+      right: 20px;
+   }
+   .tg{
+       right: 30px;
+   }
+   .tel2 img{
+       width: 40px;
+       height: 40px;
+   }
+   .contakts{
+   background: #000;
+   height: 220px;
+   }
+   .footer{
+       position: relative;
+        height: 184px;
+   }
+   .pfooter img{
+       width:40px;
+       height: 40px;
+       margin-right: 10px;
+   }
+   .pfooter{
+       margin-top: 110px;
+       margin-left: 21px;
+       font-size: 12px;
+   line-height: 140%;
+   }
+   .swiper-scrollbar{
+       width: 280px;
+       height: 10px;
+   }
+   .h1{
+       font-size: 14px;
+   line-height: 140%;
+   margin-bottom: 8px;
+   margin-top: 8px;
+   }
+   .txt{
+       display: none;
+   }
+   .tenb{
+       width: 125px;
+       height: 30px;
+       margin-left:11.5px;
+       margin-top: 0px;
+   }
+   .tenb button{
+       width: 105px;
+       height: 26px;
+       margin: 0 10px;
+   }
+   .p1440{
+       display: none;
+   }
+   .p320{
+       display: block;
+       font-size: 14px;
+   line-height: 20px;
+   }
+   .popup__body, .popup__content{
+       width: 440px;
+       height: 744px;
+        margin: 0 auto;
+       padding: 0;
+   }
+   
+   .form_text{
+       margin-left: 43px;
+       font-size: 18px;
+   line-height: 140%;
+   margin-bottom: 6px;
+   margin-top: 12px;
+   
+   }
+   .form_input{
+       margin-left: 30px;
+       width: 378px;
+       height: 35px;
+       padding-left: 23px;
+       font-size: 14px;
+   line-height: 140%;
+   }
+   .schet{
+       margin-left: 30px;
+       width: 104px;
+       height: 35px;
+       font-size: 14px;
+   line-height: 140%;
+   }
+   .divchek{
+       display: block;
+       margin-bottom: 22px;
+   }
+   .check{
+       margin-left: 30px;
+       font-size: 14px;
+   line-height: 140%;
+   }
+   .footer-right{
+       display: none;
+   }
+   #form{
+       margin-left: 98px;
+       margin-right: 97px;
+       width: 245px;
+       height: 46px;
+       font-size: 18px;
+   line-height: 26px;
+   padding-top: 1px;
+   padding-left: 4px;
+   }
+   .polit_form{
+       font-size: 12px;
+   line-height: 140%;
+   margin-left: 12px;
+   }
+   .popup__close img{
+       margin-top: 4px;
+       margin-right: 32px
+   }
+   .popup__close{
+       height: 5%;
+   }
+   .menu__btn{
+       left: 425px;
+   }
+   .menu__box{
+       width: 170px;
+       margin-left: 409px;
+       height: 3600px;
+   }
+   .menu__item1{
+       display: none;
+   }
+}
+
+@media (max-width: 330px) { 
+	.picture, .header-right, .header-center, .obr_sv, .lten, .footer-right,.br3{
+		display: none;
+	}
+	.br1{
+		display: none;
+	}
+	.br2{
+		display: block;
+	}
+	#header{
+		height: 45px;
+	}
+
+	.two{
+		margin-top: 45px;
+	}
+
+	.header-left{
+		width: 35px;
+		height: 35px;
+		margin-left: 20px;
+		margin-right: 0pxs;
+	}
+	.header-left img{
+		width: 35px;
+		height: 35px;
+	}
+
+	.burger{
+		display: block;
+	}
+	.main-content, .one, header, .glav, .two{
+		width: 320px;
+	}
+	.glav{
+		padding-left: 30px;
+		height: 363px;
+		background: url(../img/icon/fon3.png);
+	}
+	.glav h1{
+		width: 210px;
+		margin-top: 42px;
+		font-family: Noto Serif JP;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 130%;;
+	}
+	.glav .text{
+		width: 230px;
+		margin-top: 25px;
+		font-family:'Raleway', sans-serif;;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+	}
+	.button{
+		width: 195px;
+		height: 44px;
+		margin-top: 25px;
+	}
+	.button button{
+		width: 155px;
+		height: 40px;
+		font-family: Noto Serif JP;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 23px;
+	}
+	.arrows{
+		width: 62px;
+		margin-left: 129px;
+		margin-top: 125px;
+	}
+	#about{
+		margin-left: 20px;
+		display: block;
+	}
+	.choice{
+		margin-top: 34px;
+	}
+	.choice ul li{
+		margin-left: 27px;
+		font-size: 16px;
+	}
+	.h2{
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.line1{
+		display: none;
+	}
+	.cookie_alert{
+		display: none;
+	}
+	.plaha{
+		width: 160px;
+		height: 262px;
+		padding: 6px;
+		margin-left: 10px;
+	}
+	.plaha img{
+		width: 148px;
+		height: 159px;
+	}
+	.rf{
+		margin-top: 40px;
+	}
+
+.rf,.dost, .age, .proizv, .price, .spec{
+	display: block;
+	width: 130px;
+	text-align: center;
+}
+.dost, .price, .spec{
+	float: right;
+	position: relative;
+	top: -180px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.dost .p_about{
+	width: 135px;
+}
+.proizv .img_about{
+	margin-top: 37px;
+}
+.age .img_about{
+	margin-top: 20px;
+	
+}
+.price{
+	top: -137px;
+}
+.spec{
+	top: -151px;
+}
+.rf .img_about{
+	width: 40px;
+	height: 50px;
+
+}
+
+.img_about{
+	width: 40px;
+	height: 40px;
+	margin-right: 0px;
+}
+
+.h1_about{
+	font-size: 13px;
+line-height: 140%;
+}
+
+
+.fon2{
+	min-width: 320px;
+	height: 242px;
+	background: url(../img/fon4.png);
+}
+.fon2 h4{
+	font-size: 18px;
+line-height: 140%;
+margin-top: 30px;
+margin-left: 20px;
+}
+.fon2 ol{
+	margin-top: 15px;
+}
+
+.fon2 ol li{
+	font-size: 16px;
+margin-left: 37px;
+}
+#review h2{
+	font-size: 20px;
+line-height: 140%;
+margin-left: 61px;
+width: 198px;
+text-align: center;
+margin-bottom: 10px;
+margin-top: 70px;
+}
+.h2_br{
+	display: block;
+	}
+.otz1 p{
+	font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+padding: 0 30px;
+margin-left: 0px;
+}
+.otz1{
+	width: 282px;
+	height: 212px;
+	margin-left: 0px;
+	background: url(../img/otz1x320.png);
+	padding-top: 23px;
+	position: relative;
+	top: 50px;
+	margin-left: 20px;
+}
+.kto{
+	margin-left: 20px;
+}
+.kto .pkto{
+	font-size: 14px;
+line-height: 140%;
+position: relative;
+top: 90px;
+}
+.pkto1{
+	font-size: 14px;
+line-height: 140%;
+position: relative;
+top: 75px;
+
+}
+
+.otz2{
+	width: 309px;
+	height: 251px;
+	margin-left: 0px;
+	background: url(../img/otz2x320px.png);
+	padding-top: 23px;
+}
+
+.otz2 p{
+	font-size: 16px;
+line-height: 140%;
+}
+.p_about{
+	text-align: left;
+	margin-top: 10px;
+	font-size: 12px;
+line-height: 140%;
+}
+.about_div{
+	display: block;
+	margin-left: 0px;
+}
+.otz2 .kto{
+	top: -100px;
+}
+
+.otz3{
+	float: none;
+	background: url(../img/otz3x320.png);
+	width: 298px;
+	height: 253px;
+	padding-top: 23px;
+}
+.otz3 p{
+	font-size: 16px;
+line-height: 140%;
+padding-top: 0px;
+}
+.right .left{
+	font-size: 14px;
+line-height: 140%;
+position: relative;
+bottom: 25px;
+margin-bottom: 0;
+}
+.right .down{
+	font-size: 14px;
+line-height: 140%;
+position: relative;
+bottom: 20px;
+}
+.otz2 .pkto{
+	position: relative;
+	bottom: 40px;
+}
+#p320{
+	position: relative;
+	top: 25px;
+}
+#p3201{
+	position: relative;
+	top: 10px;
+}
+#prefooter{
+	min-width: 320px;
+	display: block;
+}
+.foot_right{
+	padding: 34px 36px 30px 21px;
+	margin: 0px;
+}
+.quest, .answer{
+	font-size: 16px;
+line-height: 140%;
+}
+.dan{
+	width: 280px;
+	height: 455px;
+	margin-left: 20px;
+}
+.pform{
+	font-size: 16px;
+}
+.input{
+	width: 240px;
+	height: 25px;
+	font-size: 14px;
+}
+.radio{
+	font-size: 14px;
+}
+.pb3{
+	width: 234px;
+	height: 43px;
+	margin-left: 23px;
+}
+.pbutton3{
+	width: 194px;
+	height: 39px;
+	font-size: 16px;
+}
+.polit{
+	font-size: 12px;
+	margin-left: 15px;
+}
+.obr_sv1{
+	font-size: 18px;
+line-height: 140%;
+margin-left: 112px;
+margin-top:35px;
+margin-bottom: 20px;
+}
+.wait{
+	font-size: 16px;
+line-height: 140%;
+}
+.tel2{
+	font-size: 16px;
+line-height: 140%;
+margin-left: 20px;
+margin-top: 10px;
+}
+.tel2 img{
+	width: 40px;
+	height: 40px;
+}
+.contakts{
+background: #000;
+height: 341px;
+}
+.footer{
+	position: relative;
+    top: 150px;
+}
+.pfooter img{
+	width:40px;
+	height: 40px;
+	margin-right: 10px;
+}
+.pfooter{
+	margin-top: 110px;
+	margin-left: 21px;
+	font-size: 12px;
+line-height: 140%;
+}
+.swiper-scrollbar{
+	width: 280px;
+	height: 10px;
+}
+.h1{
+	font-size: 14px;
+line-height: 140%;
+margin-bottom: 8px;
+margin-top: 8px;
+}
+.txt{
+	display: none;
+}
+.tenb{
+	width: 125px;
+	height: 35px;
+	margin-left:17.5px;
+	margin-top: 0px;
+}
+.tenb button{
+	width: 105px;
+	height: 31px;
+	margin: 0 10px;
+}
+.p1440{
+	display: none;
+}
+.p320{
+	display: block;
+	font-size: 14px;
+line-height: 20px;
+}
+.popup__body, .popup__content{
+	width: 280px;
+	height: 780px;
+	margin-left: 5px;
+}
+
+.form_text{
+	margin-left: 43px;
+	font-size: 18px;
+line-height: 140%
+}
+.form_input{
+	margin-left: 20px;
+	width: 240px;
+	height: 35px;
+	padding-left: 23px;
+	font-size: 14px;
+line-height: 140%;
+}
+.schet{
+	margin-left: 20px;
+	width: 104px;
+	height: 35px;
+	font-size: 14px;
+line-height: 140%;
+}
+.divchek{
+	display: block;
+	margin-bottom: 22px;
+}
+.check{
+	margin-left: 20px;
+	font-size: 14px;
+line-height: 140%;
+}
+#form{
+	margin-left: 18px;
+	margin-right: 17px;
+	width: 245px;
+	height: 46px;
+	font-size: 18px;
+line-height: 26px;
+padding-top: 1px;
+padding-left: 4px;
+}
+.polit_form{
+	font-size: 12px;
+line-height: 140%;
+margin-left: 12px;
+}
+.popup__close img{
+	margin-top: 4px;
+}
+.popup__close{
+	height: 5%;
+}
+#review, .footer{
+	min-width: 320px;
+}
+}

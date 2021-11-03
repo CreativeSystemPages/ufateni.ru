@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: local('Noto Sans JP Medium'), local('Noto-Sans-JP-Medium'),
+        url('NotoSansJP-Medium-Alphabetic.woff2') format('woff2'),
+        url('NotoSansJP-Medium-Alphabetic.woff') format('woff'),
+        url('NotoSansJP-Medium-Alphabetic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
