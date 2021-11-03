@@ -7,13 +7,13 @@ $to .= 'lunatik0734@gmail.com' . ', ';
 $subject = 'Запрос на связь с покуппателем!';
 
 // текст письма меняется он!!
-$message = $_POST['name'] . '<br />' . $_POST['tel'] . '<br />' . $_POST['email'];
+$message = $_POST['name'] . '<br />' . $_POST['tel'] . '<br />' . $_POST['email']. '<br />' . $_POST['Tel']. '<br />' . $_POST['WA']. '<br />' . $_POST['Viber'].'<br />' . $_POST['Telegram'];
 
 // Для отправки HTML-письма должен быть установлен заголовок Content-type
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n"; 
 // Дополнительные заголовки
-$headers .= 'To: УСиЭС <support@usies.ru>' . "\r\n"; // Свое имя и email
+$headers .= 'To: ТЭНы <grebenshikov96@mail.ru>' . "\r\n"; // Свое имя и email
 $headers .= 'From: '  . $_POST['name'] . '<' . $_POST['tel'] . '>' . "\r\n";
 
 
